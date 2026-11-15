@@ -1,0 +1,10 @@
+# A Byard package registry (RFC-0008). Written by `byard publish`.
+version = 1
+
+[[package]]
+name = "material"
+version = "0.1.0"
+checksum = "sha256:f15640e253b398eac1ceadc653b1e272af20133d620b4419908811570d67d1c1"
+archive = "material/0.1.0.tar.gz"
+archive_sha256 = "sha256:fe2117703d8036975870ac25ecf5ace42cc25603e15dfa8eb7749a7e713db1ac"
+dependencies = []
